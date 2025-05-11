@@ -1,5 +1,5 @@
 ## Call me Chan 👋
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=gitchannnz">
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=gitchannnz">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitchannnz)](https://github.com/gitchannnz/github-readme-stats)
+<img alt="lang"  align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitchannnz&layout=compact">
 
